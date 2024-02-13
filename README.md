@@ -34,6 +34,12 @@
 <img align="center" alt="INTELLIJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div><br>
 
-Profissional buscando oportunidades na área de desenvolvimento de sistemas Java. Possuo conhecimentos em Java 17, Spring Boot, Rest API, Data, Hibernate, Kotlin, HTML, CSS, JavaScript, TypeScript, Modelagem de Dados UML, MySQL, Git e GitHub e Metodologia ágil. 
+Olá! Sou um desenvolvedor back-end apaixonado por criar soluções robustas e escaláveis para desafios complexos. Nestes últimos dois anos, tenho estudado e praticado diversos projetos, desde aplicativos web até sistemas distribuídos em larga escala.
+Minha expertise inclui o desenvolvimento em Python, Java e Node.js, com profundo conhecimento em frameworks como Django, Spring Boot e Express.js. Além disso, sou proficiente em bancos de dados SQL e NoSQL, como MySQL, PostgreSQL e MongoDB, e tenho conhecimentos em otimização de consultas e modelagem de dados.
+Nos meus projetos, sempre busco seguir as melhores práticas de desenvolvimento, incluindo testes automatizados, integração contínua e entrega contínua. Tenho conhecimentos em ambientes de nuvem, como AWS e Azure, e estou sempre buscando aprender novas tecnologias e ferramentas para aprimorar minhas habilidades.
+
+Atualmente, estou aberto a oportunidades desafiadoras que me permitam aplicar e expandir meus conhecimentos em desenvolvimento back-end. Se você está procurando um profissional comprometido, apaixonado por tecnologia e pronto para enfrentar novos desafios, adoraria conversar! Você pode me contatar pelo meu e-mail: juceliocoelho2010@email.com ou pelo meu perfil no LinkedInhttps://www.linkedin.com/in/jucelio-desenvolvedor-sistema.
+
+Mal posso esperar para colaborar em novos projetos e contribuir para o sucesso da sua equipe! ``. 
 
 ## E-mail: juceliocoelho2010@gmail.com
