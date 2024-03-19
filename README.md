@@ -34,7 +34,7 @@
 <img align="center" alt="INTELLIJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div><br>
 
-Olá! Sou um desenvolvedor back-end apaixonado por criar soluções robustas e escaláveis para desafios complexos. Nestes últimos dois anos, tenho estudado e praticado diversos projetos, desde aplicativos web até sistemas distribuídos em larga escala.
+Olá! Sou um desenvolvedor apaixonado por criar soluções robustas e escaláveis para desafios complexos. Nestes últimos dois anos, tenho estudado e praticado diversos projetos, desde aplicativos web até sistemas distribuídos em larga escala.
 Minha expertise inclui o desenvolvimento em Python, Java e Node.js, com profundo conhecimento em frameworks como Django, Spring Boot e Express.js. Além disso, sou proficiente em bancos de dados SQL e NoSQL, como MySQL, PostgreSQL e MongoDB, e tenho conhecimentos em otimização de consultas e modelagem de dados.
 Nos meus projetos, sempre busco seguir as melhores práticas de desenvolvimento, incluindo testes automatizados, integração contínua e entrega contínua. Tenho conhecimentos em ambientes de nuvem, como AWS e Azure, e estou sempre buscando aprender novas tecnologias e ferramentas para aprimorar minhas habilidades.
 
