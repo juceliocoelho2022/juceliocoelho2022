@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">Techs Que eu uso no meu Dia a Dia.</h2>
 
 ###
 
@@ -46,20 +46,23 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<h2 align="left">Social Media</h2>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/juceliocoelho2022/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/juceliocoelho2022/count.svg?"  />
+<div align="left">
+  <a href="www.linkedin.com/in/jucelio-desenvolvedor-sistema" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="@Juceliocoelho2023" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://juceliocoelho2010@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="coelhojuceliofarias" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
