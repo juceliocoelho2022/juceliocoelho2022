@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">- Java Developer Jr<br>- Python Developer Jr<br>- Analista de dados Jr<br>- Analista de Bi Jr<br>- Cursando Ciências de Dados<br>- Pós-Graduação em Administração de Banco de Dados</p>
+<p align="left">- Java Developer Jr<br> Developer Mobile Jr<br>
+  - Python Developer Jr<br>- Analista de dados Jr<br>- Analista de Bi Jr<br>- Cursando Ciências de Dados<br>- Pós-Graduação em Administração de Banco de Dados</p>
 
 ###
 
