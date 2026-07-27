@@ -1,70 +1,210 @@
-<h1 align="center">🚀 Jucelio Farias Coelho</h1>
+<!-- ========================================================= -->
+<!--                  PROFILE README - JUCELIO                 -->
+<!-- ========================================================= -->
+
+<h1 align="center">
+🚀 Jucelio Farias Coelho
+</h1>
 
 <h3 align="center">
-Backend Developer • Java • Spring Boot • PostgreSQL • Data Architecture
+Backend Developer • Java • Spring Boot • Kotlin • PostgreSQL
 </h3>
 
 <p align="center">
-Desenvolvimento Backend • APIs REST • Engenharia de Software • Dados • Arquitetura
+
+<a href="https://github.com/juceliocoelho2022">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jucelio-desenvolvedor-sistema">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:juceliocoelho2010@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=juceliocoelho2022&style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 💻 Sobre Mim
+# 👋 Olá!
 
-Desenvolvedor Backend e Professor Técnico com foco em construção de APIs REST, arquitetura de sistemas, banco de dados e soluções escaláveis utilizando Java + Spring Boot + PostgreSQL.
+Sou **Desenvolvedor Backend em formação** e **Professor Técnico de Desenvolvimento de Sistemas**, apaixonado por tecnologia, arquitetura de software e educação.
 
-Atuo unindo tecnologia, dados e educação para desenvolver aplicações modernas, organizadas e orientadas a boas práticas de engenharia de software.
+Atualmente estou em transição para atuar profissionalmente como **Desenvolvedor Java Backend**, aplicando meus conhecimentos em projetos práticos, acadêmicos e pessoais.
 
-🎯 Foco atual:
-
-* Backend Engineering
-* APIs RESTful
-* Spring Boot
-* PostgreSQL
-* Docker
-* Data Analytics
-* Arquitetura de Sistemas
+Meu objetivo é construir aplicações modernas, escaláveis e bem arquitetadas utilizando as melhores práticas de Engenharia de Software.
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Open to Work
+
+🎯 Buscando oportunidades como:
+
+- Java Developer
+- Backend Developer
+- Software Engineer
+- Android Developer
+- Full Stack Java
+- Desenvolvedor Júnior
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,react,nodejs,mysql,mongodb,python,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mysql,mongodb,docker,git,github,react,nodejs,python,idea,vscode"/>
 
 </p>
 
 ---
 
-# 🛠️ Arquitetura & Especialidades
+# 🏗 Especialidades
 
-✅ APIs REST
-✅ Spring Boot
-✅ JPA/Hibernate
-✅ PostgreSQL
-✅ Docker
-✅ DTO Pattern
-✅ Arquitetura em Camadas
-✅ Modelagem de Dados
-✅ Integração Backend
-✅ Engenharia de Software
+✔ Java 21
+
+✔ Spring Boot
+
+✔ APIs REST
+
+✔ JPA / Hibernate
+
+✔ PostgreSQL
+
+✔ MySQL
+
+✔ Docker
+
+✔ JWT Authentication
+
+✔ Maven
+
+✔ Git
+
+✔ GitHub
+
+✔ Clean Code
+
+✔ SOLID
+
+✔ Arquitetura em Camadas
+
+✔ DTO Pattern
+
+✔ MVC
+
+✔ Versionamento
+
+✔ Engenharia de Software
+
+✔ Integração de APIs
+
+---
+
+# 📚 Atualmente Estudando
+
+- Spring Security
+
+- OAuth2
+
+- GitHub Actions
+
+- Testes Automatizados
+
+- JUnit
+
+- Mockito
+
+- Clean Architecture
+
+- Microsserviços
+
+- Docker Compose
+
+- Kubernetes
+
+- Cloud Computing
 
 ---
 
 # 🚀 Projetos em Destaque
 
-| Projeto                | Descrição                                | Stack                                 |
-| ---------------------- | ---------------------------------------- | ------------------------------------- |
-| 🚀 SmartFlow Analytics | Backend corporativo com arquitetura REST | Java, Spring Boot, PostgreSQL, Docker |
-| 📦 LogiTrack           | Plataforma logística com rastreamento    | Node.js, PostgreSQL                   |
-| 🦷 CliniOdonto360      | Sistema de gestão clínica                | JWT, Node.js, MySQL                   |
-| 🎓 Plataforma EAD      | Plataforma educacional moderna           | React, Node.js                        |
+## 🏦 JBank
+
+Sistema bancário desenvolvido utilizando Java e Spring Boot.
+
+### Recursos
+
+- Login
+- Cadastro
+- Contas
+- Transferências
+- APIs REST
+- PostgreSQL
+- Docker
+
+Stack
+
+Java • Spring Boot • PostgreSQL • Docker
 
 ---
 
-# 📊 Estatísticas
+## 💳 NeoBank
+
+Projeto completo de backend bancário.
+
+Tecnologias
+
+- Java
+- Spring Boot
+- JWT
+- PostgreSQL
+- Docker
+
+---
+
+## 📱 English Learning App
+
+Aplicativo Android desenvolvido em Jetpack Compose para ensino de inglês.
+
+Tecnologias
+
+- Kotlin
+- Jetpack Compose
+- Room
+- Material Design
+
+---
+
+## 🎓 Sistema Escolar
+
+Sistema para gerenciamento escolar.
+
+Tecnologias
+
+- React
+- Spring Boot
+- PostgreSQL
+
+---
+
+## 🌱 Marketplace Hidropônico
+
+Aplicação para venda de produtos hidropônicos.
+
+Tecnologias
+
+- Kotlin
+- Firebase
+- Jetpack Compose
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -72,13 +212,13 @@ Atuo unindo tecnologia, dados e educação para desenvolver aplicações moderna
 src="https://github-readme-stats.vercel.app/api?username=juceliocoelho2022&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=juceliocoelho2022&layout=compact&langs_count=7&theme=github_dark"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=juceliocoelho2022&layout=compact&theme=github_dark"/>
 
 </p>
 
 ---
 
-# 🔥 Consistência de Desenvolvimento
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -88,40 +228,107 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=juceliocoelh
 
 ---
 
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juceliocoelho2022&theme=github-compact"/>
+
+</p>
+
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=juceliocoelho2022&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=juceliocoelho2022&theme=algolia&no-frame=true"/>
 
 </p>
 
 ---
 
-# ⚙️ Arquitetura Backend
+# 🎓 Formação
 
-<p align="center">
+- 🎓 Licenciatura em Matemática (Cursando)
 
-Controller → Service → Repository → Database
+- 🎓 Pedagogia (Cursando)
 
-</p>
+- 🎓 Pós-graduação em Análise de Dados
+
+- 🎓 Pós-graduação em Arquitetura e Governança de Dados
+
+- 🎓 Pós-graduação em Psicopedagogia Clínica e Institucional
 
 ---
 
-# 🌎 Contato
+# 📜 Certificações
 
-📫 Email: [juceliocoelho2010@gmail.com](mailto:juceliocoelho2010@gmail.com)
+- IBM Data Literacy
 
-💼 LinkedIn:
+- IBM Big Data Foundations
+
+- AWS Cloud
+
+- Scrum
+
+- Kanban
+
+- Power BI
+
+- SQL
+
+- Docker
+
+- Git
+
+---
+
+# 💼 Experiência
+
+👨‍🏫 Professor Técnico de Desenvolvimento de Sistemas
+
+Atuação no ensino de:
+
+- Java
+- Programação Mobile
+- Banco de Dados
+- Engenharia de Software
+- Análise de Sistemas
+- Desenvolvimento Web
+
+---
+
+# 🎯 Objetivo Profissional
+
+Meu objetivo é atuar como Desenvolvedor Backend Java, contribuindo para projetos que utilizem boas práticas de arquitetura, APIs REST, bancos de dados relacionais e soluções escaláveis.
+
+Estou constantemente evoluindo por meio de estudos, certificações e desenvolvimento de projetos práticos.
+
+---
+
+# 🌎 Vamos nos conectar!
+
+📧 Email
+
+**juceliocoelho2010@gmail.com**
+
+💼 LinkedIn
+
 https://www.linkedin.com/in/jucelio-desenvolvedor-sistema
 
-🐙 GitHub:
+🐙 GitHub
+
 https://github.com/juceliocoelho2022
 
 ---
 
 <p align="center">
 
-“Código limpo, arquitetura sólida e soluções que geram valor.”
+<h3 align="center">
+
+"A tecnologia transforma o mundo quando conhecimento, disciplina e propósito caminham juntos."
+
+</h3>
 
 </p>
