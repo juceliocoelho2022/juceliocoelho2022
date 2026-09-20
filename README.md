@@ -2,119 +2,203 @@
 
 # Jucelio Farias Coelho
 
-### Desenvolvedor Java Backend | APIs REST · Microsserviços · Kafka · PostgreSQL · Docker
+### Java Backend Developer | Backend Engineer | Spring Boot | REST APIs | Microservices | Kafka
 
-Construindo soluções backend com foco em **confiabilidade, qualidade, dados e sistemas distribuídos**.
+Desenvolvedor de software com foco em **Java Backend, APIs REST, sistemas distribuídos, bancos de dados, qualidade e engenharia de software**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jucelio-desenvolvedor-sistema)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfólio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juceliocoelho2022)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juceliocoelho2010@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jucelio%20Coelho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jucelio-desenvolvedor-sistema)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juceliocoelho2022)
+
+**Open to opportunities:** Java Backend Developer • Backend Engineer • Software Engineer • Data / Data Engineering • QA Automation
 
 </div>
 
 ---
 
-## Sobre mim
+## Professional Summary
 
-Sou desenvolvedor com foco em **Java Backend** e professor técnico de Desenvolvimento de Sistemas. Minha formação e meus projetos unem desenvolvimento de software, bancos de dados, engenharia de dados e qualidade.
+Profissional de Tecnologia com formação em **Análise e Desenvolvimento de Sistemas** e especialização na área de **Dados e Big Data**, com atuação prática em desenvolvimento backend, bancos de dados, engenharia de dados, cloud e testes de software.
 
-No portfólio, procuro demonstrar problemas próximos do mercado: processamento de pagamentos, prevenção a fraudes, consistência eventual, idempotência, mensageria, observabilidade, segurança, testes automatizados e execução com containers.
+Meu foco principal é **Java Backend**, desenvolvendo aplicações com **Java 21, Spring Boot, APIs REST, Spring Data JPA, Hibernate, PostgreSQL, Apache Kafka, Docker, testes automatizados e observabilidade**.
 
-Atualmente busco oportunidades em **Desenvolvimento Java Backend**, com abertura para posições relacionadas a **Dados/Engenharia de Dados** e **QA/Automação de Testes**.
+No portfólio, construo projetos que simulam problemas reais de engenharia: **pagamentos, prevenção a fraudes, idempotência, mensageria, Transactional Outbox, Saga, retry, DLT, segurança com JWT, concorrência, PL/SQL, observabilidade, CI/CD e sistemas distribuídos**.
 
----
-
-## Competências técnicas
-
-| Área | Tecnologias e práticas |
-|---|---|
-| Backend | Java 21, Spring Boot, Spring Web, Spring Data JPA, Hibernate, APIs REST |
-| Arquitetura | Microsserviços, arquitetura orientada a eventos, Saga, Transactional Outbox |
-| Dados | PostgreSQL, Oracle, SQL, PL/SQL, Flyway, Redis |
-| Mensageria | Apache Kafka, retry, DLT, idempotência, consistência eventual |
-| Testes | JUnit 5, Mockito, MockMvc, REST Assured, Testcontainers, JaCoCo |
-| Infraestrutura | Docker, Docker Compose, GitHub Actions, fundamentos de AWS e Kubernetes |
-| Observabilidade | Prometheus, Grafana, Loki, Tempo, OpenTelemetry |
-| Complementares | Python, Kotlin, React, Git, Maven |
+Também atuo como professor técnico de Desenvolvimento de Sistemas, experiência que fortalece comunicação, documentação, colaboração e capacidade de explicar decisões técnicas.
 
 ---
 
-## Projetos principais
+## Core Stack
+
+### Backend & Software Engineering
+
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![REST](https://img.shields.io/badge/REST-APIs-005571?style=flat-square)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-Event_Driven-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- Java 21
+- Spring Boot, Spring Web, Spring Data JPA, Hibernate
+- REST APIs, DTOs, Bean Validation, ProblemDetail
+- Spring Security, JWT, OAuth2 Resource Server
+- Microservices and Modular Monolith
+- Event-Driven Architecture
+- Apache Kafka, Retry, DLT / DLQ
+- Idempotency and Transactional Outbox
+- Saga Orchestration and eventual consistency
+- Resilience patterns: Retry, Circuit Breaker and Fallback
+- Clean code, SOLID and layered architecture
+
+### Databases & Data
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Data-3776AB?style=flat-square&logo=python&logoColor=white)
+
+- PostgreSQL, Microsoft SQL Server, Oracle Database and MySQL
+- SQL, PL/SQL, procedures, functions, triggers, views and transactions
+- Data modeling, indexes, query optimization and database constraints
+- Flyway database migrations
+- Redis
+- Python, pandas and NumPy
+- Spark, Databricks, Delta Lake, Airflow and Data Lakehouse concepts
+
+### Testing, DevOps & Observability
+
+![JUnit](https://img.shields.io/badge/JUnit_5-Tests-25A162?style=flat-square&logo=junit5&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Observability-F46800?style=flat-square&logo=grafana&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+- JUnit 5, Mockito, MockMvc, REST Assured and Testcontainers
+- JaCoCo and automated quality gates
+- Docker and Docker Compose
+- Git, GitHub and GitHub Actions
+- CI/CD fundamentals
+- AWS: EC2, VPC, S3, IAM, ECR, ECS, Route 53 and CloudFront fundamentals
+- Prometheus, Grafana, Loki, Tempo and OpenTelemetry
+- Metrics, structured logs and distributed tracing
+
+---
+
+## Featured Projects
 
 ### [NexaPay — Event-Driven Payments](https://github.com/juceliocoelho2022/nexapay-event-driven-payments)
 
-Plataforma distribuída de pagamentos com Java 21, Spring Boot, Kafka, PostgreSQL e Redis. Aplica Transactional Outbox, segurança com JWT, resiliência e observabilidade com métricas, logs e traces.
+Plataforma distribuída de pagamentos com arquitetura orientada a eventos e foco em confiabilidade.
 
-`Java 21` `Spring Boot` `Kafka` `PostgreSQL` `Redis` `Docker` `OpenTelemetry`
+**Engineering highlights:** Java 21 • Spring Boot • Kafka • PostgreSQL • Redis • Transactional Outbox • JWT • Idempotency • Retry / DLT • OpenTelemetry • Prometheus • Grafana • Loki • Tempo • Docker • GitHub Actions
+
+---
+
+### [InnovationHub — PD&I Project Management](https://github.com/juceliocoelho2022/innovationhub)
+
+Sistema corporativo para gestão de projetos de Pesquisa, Desenvolvimento e Inovação, estruturado como **Modular Monolith**.
+
+**Engineering highlights:** Java 21 • Spring Boot • REST API • Domain Modeling • JPA / Hibernate • SQL • Validation • ProblemDetail • Optimistic Locking • JUnit 5 • Mockito • MockMvc • Flyway • Docker • OpenAPI
+
+---
 
 ### [SentinelFraud Platform](https://github.com/juceliocoelho2022/sentinelfraud-platform)
 
-Motor de decisão antifraude em tempo real com regras explicáveis, score auditável, proteção contra duplicidade, mensageria, testes e pipeline de integração contínua.
+Plataforma de prevenção a fraudes com regras explicáveis, processamento assíncrono e mecanismos de resiliência.
 
-`Java 21` `Spring Boot` `Kafka` `Redis` `PostgreSQL` `GitHub Actions`
+**Engineering highlights:** Java 21 • Spring Boot • Kafka • PostgreSQL • Redis • Transactional Outbox • Idempotency • DLT / Replay • Circuit Breaker • JWT / RS256 • Testcontainers • JaCoCo • OpenTelemetry • CI
+
+---
 
 ### [OrderFlow — Saga Orchestration](https://github.com/juceliocoelho2022/orderflow-saga-orchestration)
 
-Processamento distribuído de pedidos com Saga Orchestration, consistência eventual, falhas parciais e transações compensatórias entre microsserviços.
+Sistema distribuído para estudo de **Saga Orchestration**, consistência eventual, falhas parciais e transações compensatórias.
 
-`Java 21` `Spring Boot` `Kafka` `MongoDB` `PostgreSQL` `Docker`
+**Engineering highlights:** Java • Spring Boot • Microservices • Kafka • Saga Pattern • Event-Driven Architecture • PostgreSQL • MongoDB • Docker
+
+---
 
 ### [OracleBank Enterprise](https://github.com/juceliocoelho2022/oraclebank-enterprise)
 
-Backend bancário voltado à integração entre Java, Spring Boot e Oracle Database, com PL/SQL, packages, procedures, triggers, auditoria, locking, índices e análise de performance.
+Backend bancário focado em integração entre Java e Oracle Database, explorando recursos corporativos além de CRUD.
 
-`Java` `Spring Boot` `Oracle Database` `PL/SQL` `Docker`
+**Engineering highlights:** Java • Spring Boot • Oracle Database • SQL • PL/SQL • Packages • Stored Procedures • Triggers • Transactions • SELECT FOR UPDATE • Indexes • Execution Plans • JDBC • Docker
 
-### [ObserveFlow](https://github.com/juceliocoelho2022/observeflow)
-
-Laboratório de observabilidade para microsserviços Java, estruturado em torno dos três pilares: métricas, logs e traces distribuídos.
-
-`Spring Boot` `Prometheus` `Grafana` `Loki` `Tempo` `OpenTelemetry`
+---
 
 ### [QA Lab Commerce](https://github.com/juceliocoelho2022/qa-lab-commerce)
 
-E-commerce de laboratório para testes manuais e automação de API, frontend, integração, performance e segurança, com geração de evidências e cobertura.
+Laboratório dedicado a qualidade de software e automação de testes.
 
-`JUnit 5` `Mockito` `REST Assured` `Playwright` `k6` `OWASP ZAP` `JaCoCo`
-
----
-
-## O que esses projetos demonstram
-
-- Modelagem e implementação de APIs REST com separação de responsabilidades;
-- comunicação síncrona e assíncrona entre serviços;
-- tratamento de duplicidade, falhas transitórias e mensagens problemáticas;
-- persistência relacional, versionamento de schema e integração com Oracle;
-- testes unitários, de integração, API, interface, carga e segurança;
-- execução reproduzível com Docker Compose;
-- monitoramento por métricas, logs centralizados e tracing distribuído;
-- documentação técnica orientada a execução e entrevistas.
+**Engineering highlights:** JUnit 5 • Mockito • REST Assured • MockMvc • Playwright • k6 • OWASP ZAP • JaCoCo • API Testing • Integration Testing • Performance Testing
 
 ---
 
-## Tecnologia e educação
+## Engineering Topics Demonstrated
 
-Atuo como professor técnico de Desenvolvimento de Sistemas, ensinando programação, backend, banco de dados e desenvolvimento mobile. A docência fortalece minha comunicação, organização e capacidade de transformar problemas complexos em explicações objetivas — competências que levo para o trabalho em equipe e para revisões técnicas.
+```text
+Backend Engineering
+Java | Spring Boot | REST APIs | Microservices | JPA | Hibernate
+
+Distributed Systems
+Kafka | Event-Driven Architecture | Saga | Transactional Outbox
+Idempotency | Retry | Circuit Breaker | DLT | Eventual Consistency
+
+Databases
+PostgreSQL | SQL Server | Oracle | SQL | PL/SQL | Redis | Flyway
+
+Testing & Quality
+JUnit | Mockito | MockMvc | REST Assured | Testcontainers | JaCoCo
+
+DevOps & Cloud
+Docker | Docker Compose | GitHub Actions | CI/CD | AWS
+
+Observability
+Prometheus | Grafana | Loki | Tempo | OpenTelemetry
+
+Data Engineering
+Python | pandas | NumPy | Spark | Databricks | Airflow | Delta Lake
+```
 
 ---
 
-## Formação
+## Recruiter / ATS Keywords
 
-- **Análise e Desenvolvimento de Sistemas** — concluída;
-- **Pós-graduação em Ciência de Dados e Big Data Analytics** — concluída;
-- **Pós-graduação em Arquitetura e Governança de Dados** — concluída;
-- formação complementar contínua em Java, Oracle, testes, cloud e engenharia de dados.
+**Java Developer, Java Backend Developer, Backend Developer, Backend Engineer, Software Engineer, Java 21, Spring Boot, Spring Framework, REST API, RESTful APIs, Microservices, Distributed Systems, Event-Driven Architecture, Apache Kafka, Spring Data JPA, Hibernate, Spring Security, JWT, OAuth2, PostgreSQL, Microsoft SQL Server, Oracle Database, SQL, PL/SQL, Redis, Docker, Docker Compose, AWS, CI/CD, GitHub Actions, JUnit 5, Mockito, MockMvc, Testcontainers, JaCoCo, Maven, Git, Prometheus, Grafana, OpenTelemetry, Python, Data Engineering, Spark, Databricks, Airflow, QA Automation, API Testing.**
 
 ---
 
-## Contato
+## What I Bring to a Team
 
-- [LinkedIn](https://www.linkedin.com/in/jucelio-desenvolvedor-sistema)
-- [GitHub](https://github.com/juceliocoelho2022)
-- [E-mail](mailto:juceliocoelho2010@gmail.com)
+- desenvolvimento backend com foco em legibilidade, manutenção e confiabilidade;
+- APIs REST com contratos, validação e tratamento consistente de erros;
+- modelagem relacional e experiência prática com diferentes bancos de dados;
+- integração assíncrona com Kafka e padrões para sistemas distribuídos;
+- testes automatizados e preocupação com qualidade desde o desenvolvimento;
+- documentação técnica e capacidade de comunicar decisões de engenharia;
+- mentalidade de aprendizado contínuo aplicada em projetos executáveis.
+
+---
+
+## Education & Continuous Learning
+
+- **Análise e Desenvolvimento de Sistemas**
+- Pós-graduação na área de **Ciência de Dados e Big Data Analytics**
+- Estudos complementares em **Análise de Dados e Inteligência Artificial**
+- Formação complementar em **Oracle Database / DBA, Cloud, Data Engineering, Software Testing and Agile Methods**
+- Aprendizado contínuo em Java, Spring Boot, arquitetura, AWS, observabilidade, segurança e IA aplicada ao desenvolvimento
+
+---
+
+## Contact
+
+- **LinkedIn:** [linkedin.com/in/jucelio-desenvolvedor-sistema](https://www.linkedin.com/in/jucelio-desenvolvedor-sistema)
+- **GitHub:** [github.com/juceliocoelho2022](https://github.com/juceliocoelho2022)
 
 <div align="center">
 
-**Código confiável, documentação clara e evolução contínua.**
+### Building reliable backend systems with Java, data, testing and observability.
 
 </div>
