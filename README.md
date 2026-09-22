@@ -51,6 +51,8 @@ Também atuo como professor técnico de Desenvolvimento de Sistemas, experiênci
 
 ---
 
+> **Engineering roadmap:** [PORTFOLIO_ROADMAP.md](PORTFOLIO_ROADMAP.md) — prioridades para transformar conhecimento técnico em evidência prática de autonomia, testes, operação e diagnóstico.
+
 ## Engineering Approach
 
 Meu objetivo no portfólio não é apenas demonstrar frameworks, mas evidenciar **autonomia de engenharia**: receber um problema, analisar alternativas, implementar, testar e pensar em como a solução será operada e diagnosticada.
