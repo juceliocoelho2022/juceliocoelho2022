@@ -16,6 +16,29 @@ Desenvolvedor de software com foco em **Java Backend, APIs REST, sistemas distri
 
 ---
 
+## Start Here — 90-second review
+
+Se você está avaliando meu perfil para **Java Backend / Backend Engineering**, estes são os três projetos para começar:
+
+### 1. [NexaPay — Event-Driven Payments](https://github.com/juceliocoelho2022/nexapay-event-driven-payments)
+**Problema demonstrado:** confiabilidade em pagamentos distribuídos.  
+**Decisões:** Kafka, Transactional Outbox, idempotência, retry/DLT, JWT e observabilidade distribuída.  
+**O que observar:** como lido com dual write, redelivery, falhas parciais e diagnóstico ponta a ponta.
+
+### 2. [SentinelFraud Platform](https://github.com/juceliocoelho2022/sentinelfraud-platform)
+**Problema demonstrado:** decisão antifraude rápida, explicável e auditável.  
+**Decisões:** Redis + Lua, Outbox, Resilience4j, DLT/replay, Testcontainers, champion/challenger e rollout gradual.  
+**O que observar:** equilíbrio entre latência, confiabilidade, experimentação e operação.
+
+### 3. [InnovationHub](https://github.com/juceliocoelho2022/innovationhub)
+**Problema demonstrado:** backend corporativo evolutivo sem complexidade prematura.  
+**Decisão principal:** Modular Monolith em vez de microsserviços.  
+**O que observar:** DTOs, ProblemDetail, SQL Server, Flyway, optimistic locking e estratégia de testes.
+
+> Em cada projeto principal, consulte **Engineering Decisions & Trade-offs** para ver contexto, alternativas consideradas, consequências e estratégia de diagnóstico.
+
+---
+
 ## Professional Summary
 
 Profissional de Tecnologia com formação em **Análise e Desenvolvimento de Sistemas** e especialização na área de **Dados e Big Data**, com atuação prática em desenvolvimento backend, bancos de dados, engenharia de dados, cloud e testes de software.
