@@ -9,7 +9,8 @@ Desenvolvedor de software com foco em **Java Backend, APIs REST, sistemas distri
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jucelio%20Coelho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jucelio-desenvolvedor-sistema)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juceliocoelho2022)
 
-**Open to opportunities:** Java Backend Developer • Backend Engineer • Software Engineer • Data / Data Engineering • QA Automation
+**Primary target:** Java Backend Developer • Backend Engineer • Software Engineer  
+**Secondary strengths:** Data Engineering • QA Automation
 
 </div>
 
@@ -24,6 +25,27 @@ Meu foco principal é **Java Backend**, desenvolvendo aplicações com **Java 21
 No portfólio, construo projetos que simulam problemas reais de engenharia: **pagamentos, prevenção a fraudes, idempotência, mensageria, Transactional Outbox, Saga, retry, DLT, segurança com JWT, concorrência, PL/SQL, observabilidade, CI/CD e sistemas distribuídos**.
 
 Também atuo como professor técnico de Desenvolvimento de Sistemas, experiência que fortalece comunicação, documentação, colaboração e capacidade de explicar decisões técnicas.
+
+---
+
+## Engineering Approach
+
+Meu objetivo no portfólio não é apenas demonstrar frameworks, mas evidenciar **autonomia de engenharia**: receber um problema, analisar alternativas, implementar, testar e pensar em como a solução será operada e diagnosticada.
+
+**Fluxo de decisão:** Problem → Constraints & risks → Architecture decision → Implementation → Automated validation → Observability / diagnosis → Evolution based on evidence.
+
+### Evidências rápidas
+
+| Projeto | Decisão / problema demonstrado |
+|---|---|
+| [NexaPay](https://github.com/juceliocoelho2022/nexapay-event-driven-payments) | Event-driven payments, Outbox, idempotência, DLT e observabilidade |
+| [SentinelFraud](https://github.com/juceliocoelho2022/sentinelfraud-platform) | antifraude explicável, Redis/Lua, resiliência, shadow/canary e ADRs |
+| [InnovationHub](https://github.com/juceliocoelho2022/innovationhub) | escolha consciente de Modular Monolith, concorrência otimista e API corporativa |
+| [OrderFlow](https://github.com/juceliocoelho2022/orderflow-saga-orchestration) | Saga Orchestration, compensação e consistência eventual |
+| [SisAWS](https://github.com/juceliocoelho2022/SisAWS) | decisões full stack, recomendação determinística e IaC/AWS com limites explícitos |
+| [ObserveFlow](https://github.com/juceliocoelho2022/observeflow) | investigação de incidentes com métricas, logs, traces e SLI/SLO |
+
+Cada projeto acima possui um documento **Engineering Decisions** com contexto, alternativas, trade-offs, testes e estratégia de diagnóstico.
 
 ---
 
